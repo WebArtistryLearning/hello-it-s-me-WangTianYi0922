@@ -1,2 +1,3 @@
-a=input()
+a =input()
+
 print('Hello, '+a+'!' )
