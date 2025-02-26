@@ -1,3 +1,3 @@
 a=input()
 
-print('Hello,'+a+'!')
+print('Hello, '+a+'!')
